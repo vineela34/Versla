@@ -113,6 +113,3 @@ These limitations are retained for academic traceability and historical context.
 - Handling multipart file uploads in Java web applications
 - Organizing relational entities and server-side workflows
 
-## Portfolio Note
-
-This repository is maintained as a legacy undergraduate project record and not as a production-ready system. It is included in a portfolio to demonstrate foundational web engineering skills and progression over time.
